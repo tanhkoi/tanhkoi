@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khoi</h1>
 <h3 align="center">A third-year student at HUTECH, My major is software engineering</h3>
-<iframe src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
 - 📫 How to reach me **tankhoi46@gmail.com**
 
 - ⚡ Fun fact **I hate everyone**
