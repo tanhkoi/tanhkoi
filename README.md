@@ -11,6 +11,5 @@
 <a href="https://instagram.com/tanhkoi.img" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanhkoi.img" height="30" width="40" /></a>
 </p>
 
-<p margin-bottom = "16px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhkoi&show_icons=true&locale=en&layout=compact" alt="tanhkoi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanhkoi&show_icons=true&locale=en&layout=compact" alt="tanhkoi" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhkoi&" alt="tanhkoi" /></p>
