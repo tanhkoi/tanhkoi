@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoi</h1>
-<h3 align="center">A third-year student at HUTECH, My major is software engineering</h3>
+<!-- <h3 align="center">A third-year student at HUTECH</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ZxzzPzlimXj9k1M262/giphy.gif">
 - 📫 How to reach me **tankhoi46@gmail.com**
 
