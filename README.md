@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ZxzzPzlimXj9k1M262/giphy.gif">
 - 📫 How to reach me **tankhoi46@gmail.com**
 
-- ⚡ Fun fact **I hate people**
+- ⚡ Fun fact **bruhh, What r u looking for?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
