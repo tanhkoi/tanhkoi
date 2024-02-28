@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Khoi</h1>
+<h1 align="center">Hi 👋, </h1>
 <!-- <h3 align="center">A third-year student at HUTECH</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ZxzzPzlimXj9k1M262/giphy.gif">
 - 📫 How to reach me **tankhoi46@gmail.com**
 
-- ⚡ Fun fact **bruhh, What r u looking for?**
+- ⚡ Fun fact **I dont know what to write here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
